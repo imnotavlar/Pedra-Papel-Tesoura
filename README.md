@@ -18,13 +18,13 @@ O jogador enfrenta o computador em uma batalha divertida, com **vidas**, **aleat
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/SEU_USUARIO/pedra-papel-tesoura.git
+   git clone https://github.com/imnotavlar/Pedra-Papel-Tesoura.git
     ````
 
 2. Entre na pasta do projeto:
 
    ```bash
-   cd pedra-papel-tesoura
+   cd Pedra-Papel-Tesoura
    ```
 
 3. Compile o código:
